@@ -1,1 +1,1 @@
-Prject for ODOO hackathon
+Prject for ODOO hackathon - Expense Manager
